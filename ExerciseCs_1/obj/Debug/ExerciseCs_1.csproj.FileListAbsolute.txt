@@ -1,0 +1,7 @@
+D:\Study Another\Study\Term 5\PRN211\Learning\ExerciseCs_1\bin\Debug\ExerciseCs_1.exe.config
+D:\Study Another\Study\Term 5\PRN211\Learning\ExerciseCs_1\bin\Debug\ExerciseCs_1.exe
+D:\Study Another\Study\Term 5\PRN211\Learning\ExerciseCs_1\bin\Debug\ExerciseCs_1.pdb
+D:\Study Another\Study\Term 5\PRN211\Learning\ExerciseCs_1\obj\Debug\ExerciseCs_1.csproj.AssemblyReference.cache
+D:\Study Another\Study\Term 5\PRN211\Learning\ExerciseCs_1\obj\Debug\ExerciseCs_1.csproj.CoreCompileInputs.cache
+D:\Study Another\Study\Term 5\PRN211\Learning\ExerciseCs_1\obj\Debug\ExerciseCs_1.exe
+D:\Study Another\Study\Term 5\PRN211\Learning\ExerciseCs_1\obj\Debug\ExerciseCs_1.pdb
